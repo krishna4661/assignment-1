@@ -12,7 +12,7 @@ body {
 
 .clock-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 20px;
     box-shadow: 12 12 10px rgba(0, 0, 0, 0.2);
